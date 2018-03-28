@@ -1,10 +1,16 @@
-# Machine-learning
+## Machine-learning
 Machine Learning Assignments &amp; Projects
 
-# Supervised Learning
+## Supervised Learning
 * Logistic Regression
-* Random Forest
 * Support Vector Machine
+* Decision Tree
+* Random Forest
+* XGboost
 
-# Unsupervised Learning
+
+## Unsupervised Learning
+* Principle Components Analysis
 * K means Clustering
+* Hierarchical clustering
+* Singular value decomposition (SVD)
